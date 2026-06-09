@@ -1,5 +1,5 @@
 # Dashboard_porsche
-Projeto de dashboard com dados sanitizado pelo recurso Ia reports utilizado a Porsche como exemplo
+# Porsche Sales Dashboard — Painel analítico de vendas com dados sanitizados via inteligência artificial (IA Reports), utilizando a Porsche como modelo de aplicação.
 Porsche Sales Intelligence 🏁
 
 Executive Analytics & Data Sanitization Pipeline
